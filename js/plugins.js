@@ -25,5 +25,6 @@ var $plugins =
 {"name":"AudioStreaming","status":true,"description":"音声読み込みを高速化し、oggファイルのみを使用します。","parameters":{"mode":"10","deleteM4a":"false"}},
 {"name":"DP_MapZoom","status":true,"description":"マップの拡大率を制御します。","parameters":{"Base Scale":"1","Encount Effect":"true","Camera Controll":"true","Weather Patch":"true","Picture Size Fixation":"true","Old Focus":"false","Easing Function":"t"}},
 {"name":"SNZ_FirebaseSave","status":false,"description":"FirebaseというWebサービスを使用し、クラウドセーブ（オンラインセーブ）を実現。","parameters":{"savedesc":"セーブデータのバックアップができます。<br>現在使用できませんので、<br>","usetwitter":"true","usefacebook":"false","starttext":"Press Start","startfont":"{\"fontface\": \"\", \"size\":\"52\", \"bold\":\"false\", \"italic\":\"false\", \"color\": \" rgba(255,255,255,1.0)\"}","startse":"{\"name\":\"\", \"volume\": \"90\", \"pitch\":\"100\", \"pan\":\"0\"}","firebaseconfig":"{\"apiKey\":\"AIzaSyDEAEZvBcrNm3ipmMNsHsMWxQrMSikDBdQ\",\"authDomain\":\"re-asano-rpg.firebaseapp.com\",\"databaseURL\":\"https://re-asano-rpg.firebaseio.com\",\"projectId\":\"re-asano-rpg\",\"storageBucket\":\"re-asano-rpg.appspot.com\",\"messagingSenderId\":\"539013304508\"}"}},
-{"name":"LoadComSim","status":true,"description":"ver1.00 メニューコマンドにロードを追加します。","parameters":{"loadtext":"ロード"}}
+{"name":"LoadComSim","status":true,"description":"ver1.00 メニューコマンドにロードを追加します。","parameters":{"loadtext":"ロード"}},
+{"name":"RegisterServiceWorker","status":true,"description":"まだ書いてないよ","parameters":{"ServiceWorkerScript":"service_worker.js"}}
 ];
