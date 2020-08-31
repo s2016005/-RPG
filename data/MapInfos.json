@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"expanded":true,"name":"チュートリアル","order":1,"parentId":0,"scrollX":541.7142857142857,"scrollY":549.4285714285714},
+{"id":2,"expanded":true,"name":"ゲームセレクト","order":2,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":false,"name":"クレジット","order":4,"parentId":2,"scrollX":1197.6,"scrollY":780},
+{"id":4,"expanded":true,"name":"更新履歴","order":3,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":true,"name":"浅野学園外観","order":5,"parentId":2,"scrollX":1178.3999999999999,"scrollY":2791.2}
+]
