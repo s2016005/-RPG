@@ -5,5 +5,6 @@ null,
 {"id":3,"expanded":false,"name":"クレジット","order":4,"parentId":2,"scrollX":1088.7272727272727,"scrollY":709.0909090909091},
 {"id":4,"expanded":true,"name":"更新履歴","order":3,"parentId":2,"scrollX":1088.7272727272727,"scrollY":709.0909090909091},
 {"id":5,"expanded":true,"name":"浅野学園外観","order":6,"parentId":6,"scrollX":1071.2727272727273,"scrollY":2860.3636363636365},
-{"id":6,"expanded":true,"name":"本編-序-","order":5,"parentId":2,"scrollX":1088.7272727272727,"scrollY":709.0909090909091}
+{"id":6,"expanded":true,"name":"本編-序-","order":5,"parentId":2,"scrollX":1088.7272727272727,"scrollY":709.0909090909091},
+{"id":7,"expanded":false,"name":"デバック用","order":7,"parentId":5,"scrollX":1088.7272727272727,"scrollY":709.0909090909091}
 ]
