@@ -1,4 +1,4 @@
-<Files ~ "\.(html|php|jpe?g|gif|png|css|js|pdf)$">
+<Files ~ "\.(jpe?g|gif|png|css|js|json)$">
 Header add Pragma "no-cache"
 Header set Cache-Control no-cache
 </Files>
